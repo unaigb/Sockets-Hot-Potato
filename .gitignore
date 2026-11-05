@@ -1,0 +1,9 @@
+# Compilado
+*.o
+/cliente
+/servidor
+
+# Registros que genera la ejecución
+*.log
+[0-9]*TCP.txt
+[0-9]*UDP.txt
