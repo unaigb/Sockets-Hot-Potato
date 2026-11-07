@@ -87,7 +87,8 @@ Sockets-Hot-Potato/
 ├── makefile
 ├── lanzaServidor.sh   # Lanza el servidor y varios clientes
 ├── preguntas.txt      # Banco de preguntas (pregunta*respuesta)
-└── ordenes*.txt       # Órdenes de ejemplo para el cliente
+├── ordenes*.txt       # Órdenes de ejemplo para el cliente
+└── docs/Informe-Sockets.pdf   # Informe de la práctica (con los datos personales tapados)
 ```
 
 ---
